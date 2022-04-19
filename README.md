@@ -7,4 +7,4 @@ A project exploring and comparing different algorithms (and how to make them bet
 
 3rd part: SVM (grid search for fine tuning), PCA, Autoencoders as a replace to PCA and Image reconstruction using PCA --(notebook + report)
 
-4th part: Autoencoders, custom tf layers, training loops etc, Variational Autoencoders
+4th part: Autoencoders, custom tf layers, training loops etc, Variational Autoencoders --(notebook + report)
